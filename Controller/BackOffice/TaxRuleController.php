@@ -4,7 +4,7 @@ namespace MondialRelayHomeDelivery\Controller\BackOffice;
 
 use MondialRelayHomeDelivery\Form\TaxRuleForm;
 use MondialRelayHomeDelivery\MondialRelayHomeDelivery;
-use Symfony\Component\Routing\Annotation\Route;
+use Symfony\Component\Routing\Attribute\Route;
 use Thelia\Controller\Admin\BaseAdminController;
 use Thelia\Core\Security\AccessManager;
 use Thelia\Core\Security\Resource\AdminResources;
